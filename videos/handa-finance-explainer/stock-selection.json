@@ -1,0 +1,57 @@
+{
+  "project": "C:/Users/amath/handa/videos/handa-finance-explainer",
+  "sourceTool": "functions.mcp__pictory-mcp__search_media",
+  "selectedCount": 2,
+  "downloadKind": "Exact returned watermarked 480p previews; licensed originals were not exposed by the search tool.",
+  "licenseStatus": "Unverified for external use. Tool instructions state that the exact preview URL licenses a clip at Pictory render; no render was requested or performed. Downloading a preview is not evidence of a license. Do not treat local files as publication-ready licensed originals.",
+  "assets": [
+    {
+      "name": "stock-india",
+      "downloadStatus": "Downloaded exact returned preview and frozen byte-for-byte; ffprobe validated landscape H.264.",
+      "localVerification": {"width": 850, "height": 480, "durationSeconds": 14.0, "bytes": 2589159, "sha256": "0ab089a8ea3193d01544ff8dd0131e4fc34f22c3cb6ab7e347b54a0d606da4b5"},
+      "query": "Mumbai India city skyline residential buildings",
+      "resultPosition": 6,
+      "mediaType": "video",
+      "library": "story_blocks",
+      "stockItemId": "348745347",
+      "description": "A beautiful aerial view of the high-rise skyscrapers of Mumbai city in Maharashtra during monsoon season under a cloudy sky.",
+      "duration": 14,
+      "orientation": "landscape",
+      "aspectRatio": 1.7771,
+      "preview": {
+        "jpg": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/S3Y0J7dQvkeg08nbn/videoblocks-aerial-view-of-mumbai-city-in-maharashtra-india-00000101_shfvbu4dp_thumbnail-180_06.jpg",
+        "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/S3Y0J7dQvkeg08nbn/videoblocks-aerial-view-of-mumbai-city-in-maharashtra-india-00000101_shfvbu4dp__753d3c4dd91f223e419b00eada4ed8c4__P480.mp4?type=preview&origin=VIDEOBLOCKS&timestamp_ms=1791402619928&publicKey=NFKFzias7JkF35W3n9edUuQV1Rnn7udTDco3ZbvzlsXgiAzLXO0a15shkgbMNmXZ&organizationId=103776&apiVersion=2.0&stockItemId=348745347&resolution=480p&endUserId=718890439cf9899e412f4e3d6c8148c452fb5959&projectId=dev&searchId=12728c5e-2ecb-4c40-9815-95d5af391ea1&searchPageId=897cdd58-b474-4f6f-8cbd-eefffed922fd"
+      },
+      "rationale": "Visually inspected thumbnail: broad aerial of Mumbai residential towers, dense housing and urban property. Connects global Treasury yields to Indian household property/investment decisions without pretending to depict mutual fund trading or gold. Selected over the unrelated portrait Abu Dhabi result and compared against Kolkata's landscape skyline, which was visibly hazier and less visually clear.",
+      "inspectedThumbnail": "C:/Users/amath/handa/videos/handa-finance-explainer/downloads/stock-1/thumbnail.jpg",
+      "downloadPath": "C:/Users/amath/handa/videos/handa-finance-explainer/downloads/stock-5/source.mp4",
+      "frozenPath": "C:/Users/amath/handa/videos/handa-finance-explainer/assets/stock-india.mp4"
+    },
+    {
+      "name": "stock-treasury",
+      "downloadStatus": "Downloaded exact returned preview and frozen byte-for-byte; ffprobe validated landscape H.264.",
+      "localVerification": {"width": 850, "height": 480, "durationSeconds": 29.833333, "bytes": 2724954, "sha256": "f8fbcc701f09e63a50ccb6a6c2fd3ed4a6159da2622f4c4ce0a727f1fda78cbd"},
+      "query": "United States Treasury building Washington DC",
+      "resultPosition": 4,
+      "mediaType": "video",
+      "library": "story_blocks",
+      "stockItemId": "352603460",
+      "description": "US Treasury Department Building Exterior Washington, DC.",
+      "duration": 30,
+      "orientation": "landscape",
+      "aspectRatio": 1.7708,
+      "preview": {
+        "jpg": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/Sy0oceyF0lz0e87op/68974d24d5f1084a05fc924b-gvxn1tqzx6_thumbnail-180_08.jpg",
+        "url": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/Sy0oceyF0lz0e87op/68974d24d5f1084a05fc924b-gvxn1tqzx6__b9cdbfe4226e0f2b303ba6cda2b033ea__P480.mp4?type=preview&origin=VIDEOBLOCKS&timestamp_ms=1791402619898&publicKey=NFKFzias7JkF35W3n9edUuQV1Rnn7udTDco3ZbvzlsXgiAzLXO0a15shkgbMNmXZ&organizationId=103776&apiVersion=2.0&stockItemId=352603460&resolution=480p&endUserId=718890439cf9899e412f4e3d6c8148c452fb5959&projectId=dev&searchId=723901a4-8215-4b39-be90-a1ccb9bacda5&searchPageId=7eaead43-6191-4ecc-9d2b-222006e2f843"
+      },
+      "rationale": "Visually inspected thumbnail: unobstructed neoclassical Treasury exterior with columns and blue sky. Direct institutional anchor for Treasury bonds and global finance. Compared against the first result, a layered money montage with baked-in Treasury titles, and rejected the portrait building result. Do not use this Treasury image to imply the Federal Reserve is the same institution or directly sets 10-year yields.",
+      "inspectedThumbnail": "C:/Users/amath/handa/videos/handa-finance-explainer/downloads/stock-2/thumbnail.jpg",
+      "downloadPath": "C:/Users/amath/handa/videos/handa-finance-explainer/downloads/stock-6/source.mp4",
+      "frozenPath": "C:/Users/amath/handa/videos/handa-finance-explainer/assets/stock-treasury.mp4"
+    }
+  ],
+  "comparisonThumbnails": [
+    "C:/Users/amath/handa/videos/handa-finance-explainer/downloads/stock-3/thumbnail.jpg",
+    "C:/Users/amath/handa/videos/handa-finance-explainer/downloads/stock-4/thumbnail.jpg"
+  ]
+}

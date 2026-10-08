@@ -1,0 +1,1920 @@
+{
+  "language": "en",
+  "language_probability": 0.998397171497345,
+  "segments": [
+    {
+      "start": 0.69,
+      "end": 4.63,
+      "text": " Something fairly important is happening in the US bond market."
+    },
+    {
+      "start": 5.15,
+      "end": 9.79,
+      "text": " The yield on the 10-year US government bond has crossed 5%."
+    },
+    {
+      "start": 9.79,
+      "end": 15.13,
+      "text": " In fact, on 29th of September, it touched roughly 5.3%."
+    },
+    {
+      "start": 15.13,
+      "end": 18.35,
+      "text": " It is the highest level since 2007."
+    },
+    {
+      "start": 19.39,
+      "end": 25.67,
+      "text": " Now, a US government bond yielding 5% may sound completely irrelevant to someone sitting in India,"
+    },
+    {
+      "start": 25.93,
+      "end": 28.43,
+      "text": " investing in mutual funds, gold or real estate."
+    },
+    {
+      "start": 28.43,
+      "end": 30.09,
+      "text": " But it isn't."
+    },
+    {
+      "start": 30.79,
+      "end": 36.63,
+      "text": " Think of the US Treasury yield as something close to the gravity of the global financial markets."
+    },
+    {
+      "start": 37.49,
+      "end": 43.97,
+      "text": " If the US government is willing to give an investor more than 5% for 10 years,"
+    },
+    {
+      "start": 44.63,
+      "end": 48.51,
+      "text": " every other investment has to answer a single question."
+    },
+    {
+      "start": 49.45,
+      "end": 52.59,
+      "text": " Why should I take additional risk to own you?"
+    },
+    {
+      "start": 54.38,
+      "end": 59.76,
+      "text": " Before we get into why this is happening, we need to understand two basic concepts."
+    },
+    {
+      "start": 60.6,
+      "end": 66.18,
+      "text": " The Federal Reserve's policy rate and the US Treasury yield are not the same thing."
+    },
+    {
+      "start": 67.04,
+      "end": 70.22,
+      "text": " The Fed controls a very short-term interest rate."
+    },
+    {
+      "start": 70.68,
+      "end": 75.82,
+      "text": " Right now, after its September hike, the target is 3.75% to 4%."
+    },
+    {
+      "start": 76.38,
+      "end": 80.14,
+      "text": " But the 10-year Treasury yield is determined by the bond market."
+    },
+    {
+      "start": 80.14,
+      "end": 86.36,
+      "text": " If I lend money to the US government for 10 years, what return do I demand?"
+    },
+    {
+      "start": 87.34,
+      "end": 92.6,
+      "text": " That depends upon what I think inflation will be, what I think the future Fed rates will be,"
+    },
+    {
+      "start": 93.06,
+      "end": 97.5,
+      "text": " how strong the economy will be and how much additional compensation I want"
+    },
+    {
+      "start": 97.5,
+      "end": 100.26,
+      "text": " for locking my money away for 10 years."
+    },
+    {
+      "start": 100.96,
+      "end": 104.04,
+      "text": " And remember one basic rule of bonds."
+    },
+    {
+      "start": 105.0,
+      "end": 109.02,
+      "text": " When bond yields go up, existing bond prices go down."
+    },
+    {
+      "start": 109.02,
+      "end": 112.58,
+      "text": " So when you hear that Treasury yields have shot up,"
+    },
+    {
+      "start": 113.16,
+      "end": 117.38,
+      "text": " what actually happening is that investors have been selling bonds"
+    },
+    {
+      "start": 117.38,
+      "end": 121.34,
+      "text": " or demanding a higher return before they are willing to buy them."
+    },
+    {
+      "start": 121.9,
+      "end": 123.98,
+      "text": " And this has been a very large one."
+    }
+  ],
+  "words": [
+    {
+      "text": "Something",
+      "start": 0.69,
+      "end": 1.29,
+      "probability": 0.6836801767349243
+    },
+    {
+      "text": "fairly",
+      "start": 1.29,
+      "end": 1.79,
+      "probability": 0.960012674331665
+    },
+    {
+      "text": "important",
+      "start": 1.79,
+      "end": 2.39,
+      "probability": 0.9965584874153137
+    },
+    {
+      "text": "is",
+      "start": 2.39,
+      "end": 2.91,
+      "probability": 0.9667216539382935
+    },
+    {
+      "text": "happening",
+      "start": 2.91,
+      "end": 3.23,
+      "probability": 0.9967376589775085
+    },
+    {
+      "text": "in",
+      "start": 3.23,
+      "end": 3.57,
+      "probability": 0.9950428009033203
+    },
+    {
+      "text": "the",
+      "start": 3.57,
+      "end": 3.67,
+      "probability": 0.990744948387146
+    },
+    {
+      "text": "US",
+      "start": 3.67,
+      "end": 3.93,
+      "probability": 0.7985450029373169
+    },
+    {
+      "text": "bond",
+      "start": 3.93,
+      "end": 4.21,
+      "probability": 0.9611015915870667
+    },
+    {
+      "text": "market.",
+      "start": 4.21,
+      "end": 4.63,
+      "probability": 0.9979704022407532
+    },
+    {
+      "text": "The",
+      "start": 5.15,
+      "end": 5.71,
+      "probability": 0.9844073057174683
+    },
+    {
+      "text": "yield",
+      "start": 5.71,
+      "end": 6.03,
+      "probability": 0.9952955842018127
+    },
+    {
+      "text": "on",
+      "start": 6.03,
+      "end": 6.55,
+      "probability": 0.9595056772232056
+    },
+    {
+      "text": "the",
+      "start": 6.55,
+      "end": 6.65,
+      "probability": 0.9704217314720154
+    },
+    {
+      "text": "10",
+      "start": 6.65,
+      "end": 6.93,
+      "probability": 0.9310285449028015
+    },
+    {
+      "text": "-year",
+      "start": 6.93,
+      "end": 7.09,
+      "probability": 0.7654919326305389
+    },
+    {
+      "text": "US",
+      "start": 7.09,
+      "end": 7.39,
+      "probability": 0.9098043441772461
+    },
+    {
+      "text": "government",
+      "start": 7.39,
+      "end": 7.67,
+      "probability": 0.8300485610961914
+    },
+    {
+      "text": "bond",
+      "start": 7.67,
+      "end": 8.01,
+      "probability": 0.9929527640342712
+    },
+    {
+      "text": "has",
+      "start": 8.01,
+      "end": 8.45,
+      "probability": 0.9798837900161743
+    },
+    {
+      "text": "crossed",
+      "start": 8.45,
+      "end": 8.81,
+      "probability": 0.9476917386054993
+    },
+    {
+      "text": "5%.",
+      "start": 8.81,
+      "end": 9.79,
+      "probability": 0.8924290835857391
+    },
+    {
+      "text": "In",
+      "start": 9.79,
+      "end": 10.69,
+      "probability": 0.974690318107605
+    },
+    {
+      "text": "fact,",
+      "start": 10.69,
+      "end": 10.95,
+      "probability": 0.9978335499763489
+    },
+    {
+      "text": "on",
+      "start": 11.35,
+      "end": 11.45,
+      "probability": 0.984162449836731
+    },
+    {
+      "text": "29th",
+      "start": 11.45,
+      "end": 11.97,
+      "probability": 0.8123445510864258
+    },
+    {
+      "text": "of",
+      "start": 11.97,
+      "end": 12.05,
+      "probability": 0.8420524597167969
+    },
+    {
+      "text": "September,",
+      "start": 12.05,
+      "end": 12.45,
+      "probability": 0.9820154905319214
+    },
+    {
+      "text": "it",
+      "start": 12.89,
+      "end": 12.95,
+      "probability": 0.9829198718070984
+    },
+    {
+      "text": "touched",
+      "start": 12.95,
+      "end": 13.25,
+      "probability": 0.8356449007987976
+    },
+    {
+      "text": "roughly",
+      "start": 13.25,
+      "end": 13.69,
+      "probability": 0.9939423203468323
+    },
+    {
+      "text": "5",
+      "start": 13.69,
+      "end": 14.07,
+      "probability": 0.9905394315719604
+    },
+    {
+      "text": ".3%.",
+      "start": 14.07,
+      "end": 15.13,
+      "probability": 0.9598861734072367
+    },
+    {
+      "text": "It",
+      "start": 15.13,
+      "end": 15.65,
+      "probability": 0.9854185581207275
+    },
+    {
+      "text": "is",
+      "start": 15.65,
+      "end": 15.75,
+      "probability": 0.9407544732093811
+    },
+    {
+      "text": "the",
+      "start": 15.75,
+      "end": 15.89,
+      "probability": 0.9851153492927551
+    },
+    {
+      "text": "highest",
+      "start": 15.89,
+      "end": 16.15,
+      "probability": 0.9985093474388123
+    },
+    {
+      "text": "level",
+      "start": 16.15,
+      "end": 16.57,
+      "probability": 0.9886792302131653
+    },
+    {
+      "text": "since",
+      "start": 16.57,
+      "end": 17.07,
+      "probability": 0.9901081323623657
+    },
+    {
+      "text": "2007.",
+      "start": 17.07,
+      "end": 18.35,
+      "probability": 0.9928850531578064
+    },
+    {
+      "text": "Now,",
+      "start": 19.39,
+      "end": 19.69,
+      "probability": 0.9647917747497559
+    },
+    {
+      "text": "a",
+      "start": 20.19,
+      "end": 20.33,
+      "probability": 0.9457799792289734
+    },
+    {
+      "text": "US",
+      "start": 20.33,
+      "end": 20.67,
+      "probability": 0.9772108793258667
+    },
+    {
+      "text": "government",
+      "start": 20.67,
+      "end": 20.97,
+      "probability": 0.9667333364486694
+    },
+    {
+      "text": "bond",
+      "start": 20.97,
+      "end": 21.35,
+      "probability": 0.9834544658660889
+    },
+    {
+      "text": "yielding",
+      "start": 21.35,
+      "end": 21.77,
+      "probability": 0.995643824338913
+    },
+    {
+      "text": "5",
+      "start": 21.77,
+      "end": 22.05,
+      "probability": 0.9928511381149292
+    },
+    {
+      "text": "%",
+      "start": 22.05,
+      "end": 22.41,
+      "probability": 0.9891870617866516
+    },
+    {
+      "text": "may",
+      "start": 22.41,
+      "end": 23.03,
+      "probability": 0.9872705936431885
+    },
+    {
+      "text": "sound",
+      "start": 23.03,
+      "end": 23.27,
+      "probability": 0.9966036081314087
+    },
+    {
+      "text": "completely",
+      "start": 23.27,
+      "end": 23.67,
+      "probability": 0.9945159554481506
+    },
+    {
+      "text": "irrelevant",
+      "start": 23.67,
+      "end": 24.19,
+      "probability": 0.995877742767334
+    },
+    {
+      "text": "to",
+      "start": 24.19,
+      "end": 24.63,
+      "probability": 0.9959654808044434
+    },
+    {
+      "text": "someone",
+      "start": 24.63,
+      "end": 24.89,
+      "probability": 0.9907599687576294
+    },
+    {
+      "text": "sitting",
+      "start": 24.89,
+      "end": 25.11,
+      "probability": 0.9895622134208679
+    },
+    {
+      "text": "in",
+      "start": 25.11,
+      "end": 25.35,
+      "probability": 0.9946879148483276
+    },
+    {
+      "text": "India,",
+      "start": 25.35,
+      "end": 25.67,
+      "probability": 0.9978517293930054
+    },
+    {
+      "text": "investing",
+      "start": 25.93,
+      "end": 26.27,
+      "probability": 0.9964815378189087
+    },
+    {
+      "text": "in",
+      "start": 26.27,
+      "end": 26.49,
+      "probability": 0.9983990788459778
+    },
+    {
+      "text": "mutual",
+      "start": 26.49,
+      "end": 26.75,
+      "probability": 0.9945152401924133
+    },
+    {
+      "text": "funds,",
+      "start": 26.75,
+      "end": 27.21,
+      "probability": 0.9980348944664001
+    },
+    {
+      "text": "gold",
+      "start": 27.39,
+      "end": 27.63,
+      "probability": 0.9800173044204712
+    },
+    {
+      "text": "or",
+      "start": 27.63,
+      "end": 27.95,
+      "probability": 0.6860862374305725
+    },
+    {
+      "text": "real",
+      "start": 27.95,
+      "end": 28.11,
+      "probability": 0.9921103119850159
+    },
+    {
+      "text": "estate.",
+      "start": 28.11,
+      "end": 28.43,
+      "probability": 0.9938700199127197
+    },
+    {
+      "text": "But",
+      "start": 28.43,
+      "end": 29.47,
+      "probability": 0.4292720556259155
+    },
+    {
+      "text": "it",
+      "start": 29.47,
+      "end": 29.65,
+      "probability": 0.9552432298660278
+    },
+    {
+      "text": "isn't.",
+      "start": 29.65,
+      "end": 30.09,
+      "probability": 0.9299866557121277
+    },
+    {
+      "text": "Think",
+      "start": 30.79,
+      "end": 31.29,
+      "probability": 0.9737507700920105
+    },
+    {
+      "text": "of",
+      "start": 31.29,
+      "end": 31.47,
+      "probability": 0.9943325519561768
+    },
+    {
+      "text": "the",
+      "start": 31.47,
+      "end": 31.59,
+      "probability": 0.9638911485671997
+    },
+    {
+      "text": "US",
+      "start": 31.59,
+      "end": 31.81,
+      "probability": 0.8909117579460144
+    },
+    {
+      "text": "Treasury",
+      "start": 31.81,
+      "end": 32.15,
+      "probability": 0.9179897904396057
+    },
+    {
+      "text": "yield",
+      "start": 32.15,
+      "end": 32.65,
+      "probability": 0.6259258389472961
+    },
+    {
+      "text": "as",
+      "start": 32.65,
+      "end": 33.25,
+      "probability": 0.976895809173584
+    },
+    {
+      "text": "something",
+      "start": 33.25,
+      "end": 33.59,
+      "probability": 0.9939982891082764
+    },
+    {
+      "text": "close",
+      "start": 33.59,
+      "end": 34.11,
+      "probability": 0.9942827224731445
+    },
+    {
+      "text": "to",
+      "start": 34.11,
+      "end": 34.35,
+      "probability": 0.9978070855140686
+    },
+    {
+      "text": "the",
+      "start": 34.35,
+      "end": 34.47,
+      "probability": 0.9767898917198181
+    },
+    {
+      "text": "gravity",
+      "start": 34.47,
+      "end": 34.99,
+      "probability": 0.9789830446243286
+    },
+    {
+      "text": "of",
+      "start": 34.99,
+      "end": 35.39,
+      "probability": 0.9980992674827576
+    },
+    {
+      "text": "the",
+      "start": 35.39,
+      "end": 35.51,
+      "probability": 0.9135119915008545
+    },
+    {
+      "text": "global",
+      "start": 35.51,
+      "end": 35.73,
+      "probability": 0.9734064936637878
+    },
+    {
+      "text": "financial",
+      "start": 35.73,
+      "end": 36.21,
+      "probability": 0.9949994087219238
+    },
+    {
+      "text": "markets.",
+      "start": 36.21,
+      "end": 36.63,
+      "probability": 0.9924977421760559
+    },
+    {
+      "text": "If",
+      "start": 37.49,
+      "end": 37.93,
+      "probability": 0.9929417371749878
+    },
+    {
+      "text": "the",
+      "start": 37.93,
+      "end": 38.13,
+      "probability": 0.9914173483848572
+    },
+    {
+      "text": "US",
+      "start": 38.13,
+      "end": 38.33,
+      "probability": 0.9838142395019531
+    },
+    {
+      "text": "government",
+      "start": 38.33,
+      "end": 38.71,
+      "probability": 0.8744458556175232
+    },
+    {
+      "text": "is",
+      "start": 38.71,
+      "end": 39.21,
+      "probability": 0.9944977164268494
+    },
+    {
+      "text": "willing",
+      "start": 39.21,
+      "end": 39.41,
+      "probability": 0.9982902407646179
+    },
+    {
+      "text": "to",
+      "start": 39.41,
+      "end": 39.61,
+      "probability": 0.99594646692276
+    },
+    {
+      "text": "give",
+      "start": 39.61,
+      "end": 39.81,
+      "probability": 0.9978660941123962
+    },
+    {
+      "text": "an",
+      "start": 39.81,
+      "end": 40.11,
+      "probability": 0.9839612245559692
+    },
+    {
+      "text": "investor",
+      "start": 40.11,
+      "end": 40.59,
+      "probability": 0.9978702068328857
+    },
+    {
+      "text": "more",
+      "start": 40.59,
+      "end": 41.43,
+      "probability": 0.9919174313545227
+    },
+    {
+      "text": "than",
+      "start": 41.43,
+      "end": 41.69,
+      "probability": 0.9961689114570618
+    },
+    {
+      "text": "5",
+      "start": 41.69,
+      "end": 42.05,
+      "probability": 0.9478319883346558
+    },
+    {
+      "text": "%",
+      "start": 42.05,
+      "end": 42.49,
+      "probability": 0.8026297688484192
+    },
+    {
+      "text": "for",
+      "start": 42.49,
+      "end": 43.15,
+      "probability": 0.9863501191139221
+    },
+    {
+      "text": "10",
+      "start": 43.15,
+      "end": 43.53,
+      "probability": 0.8442783951759338
+    },
+    {
+      "text": "years,",
+      "start": 43.53,
+      "end": 43.97,
+      "probability": 0.9878643155097961
+    },
+    {
+      "text": "every",
+      "start": 44.63,
+      "end": 45.01,
+      "probability": 0.9868665933609009
+    },
+    {
+      "text": "other",
+      "start": 45.01,
+      "end": 45.27,
+      "probability": 0.9927996397018433
+    },
+    {
+      "text": "investment",
+      "start": 45.27,
+      "end": 45.71,
+      "probability": 0.9951114058494568
+    },
+    {
+      "text": "has",
+      "start": 45.71,
+      "end": 46.19,
+      "probability": 0.9943037629127502
+    },
+    {
+      "text": "to",
+      "start": 46.19,
+      "end": 46.59,
+      "probability": 0.9914279580116272
+    },
+    {
+      "text": "answer",
+      "start": 46.59,
+      "end": 47.05,
+      "probability": 0.997804582118988
+    },
+    {
+      "text": "a",
+      "start": 47.05,
+      "end": 47.49,
+      "probability": 0.9937166571617126
+    },
+    {
+      "text": "single",
+      "start": 47.49,
+      "end": 47.85,
+      "probability": 0.9920360445976257
+    },
+    {
+      "text": "question.",
+      "start": 47.85,
+      "end": 48.51,
+      "probability": 0.9981512427330017
+    },
+    {
+      "text": "Why",
+      "start": 49.45,
+      "end": 50.03,
+      "probability": 0.9030784368515015
+    },
+    {
+      "text": "should",
+      "start": 50.03,
+      "end": 50.25,
+      "probability": 0.9842106103897095
+    },
+    {
+      "text": "I",
+      "start": 50.25,
+      "end": 50.43,
+      "probability": 0.9887111186981201
+    },
+    {
+      "text": "take",
+      "start": 50.43,
+      "end": 50.73,
+      "probability": 0.9973486661911011
+    },
+    {
+      "text": "additional",
+      "start": 50.73,
+      "end": 51.21,
+      "probability": 0.8973116874694824
+    },
+    {
+      "text": "risk",
+      "start": 51.21,
+      "end": 51.79,
+      "probability": 0.9167367815971375
+    },
+    {
+      "text": "to",
+      "start": 51.79,
+      "end": 52.13,
+      "probability": 0.993002712726593
+    },
+    {
+      "text": "own",
+      "start": 52.13,
+      "end": 52.39,
+      "probability": 0.9915253520011902
+    },
+    {
+      "text": "you?",
+      "start": 52.39,
+      "end": 52.59,
+      "probability": 0.9627837538719177
+    },
+    {
+      "text": "Before",
+      "start": 54.38,
+      "end": 55.48,
+      "probability": 0.50808185338974
+    },
+    {
+      "text": "we",
+      "start": 55.48,
+      "end": 55.7,
+      "probability": 0.9857020378112793
+    },
+    {
+      "text": "get",
+      "start": 55.7,
+      "end": 55.92,
+      "probability": 0.9855711460113525
+    },
+    {
+      "text": "into",
+      "start": 55.92,
+      "end": 56.3,
+      "probability": 0.9800577163696289
+    },
+    {
+      "text": "why",
+      "start": 56.3,
+      "end": 56.8,
+      "probability": 0.9513373970985413
+    },
+    {
+      "text": "this",
+      "start": 56.8,
+      "end": 57.06,
+      "probability": 0.9665409326553345
+    },
+    {
+      "text": "is",
+      "start": 57.06,
+      "end": 57.22,
+      "probability": 0.9887309670448303
+    },
+    {
+      "text": "happening,",
+      "start": 57.22,
+      "end": 57.52,
+      "probability": 0.9969019889831543
+    },
+    {
+      "text": "we",
+      "start": 58.04,
+      "end": 58.2,
+      "probability": 0.9802537560462952
+    },
+    {
+      "text": "need",
+      "start": 58.2,
+      "end": 58.34,
+      "probability": 0.996422290802002
+    },
+    {
+      "text": "to",
+      "start": 58.34,
+      "end": 58.44,
+      "probability": 0.9978943467140198
+    },
+    {
+      "text": "understand",
+      "start": 58.44,
+      "end": 58.8,
+      "probability": 0.9947709441184998
+    },
+    {
+      "text": "two",
+      "start": 58.8,
+      "end": 59.04,
+      "probability": 0.8910242319107056
+    },
+    {
+      "text": "basic",
+      "start": 59.04,
+      "end": 59.28,
+      "probability": 0.979335367679596
+    },
+    {
+      "text": "concepts.",
+      "start": 59.28,
+      "end": 59.76,
+      "probability": 0.9902378916740417
+    },
+    {
+      "text": "The",
+      "start": 60.6,
+      "end": 61.02,
+      "probability": 0.8944740891456604
+    },
+    {
+      "text": "Federal",
+      "start": 61.02,
+      "end": 61.32,
+      "probability": 0.6893427968025208
+    },
+    {
+      "text": "Reserve's",
+      "start": 61.32,
+      "end": 61.94,
+      "probability": 0.9092085361480713
+    },
+    {
+      "text": "policy",
+      "start": 61.94,
+      "end": 62.28,
+      "probability": 0.9341812133789062
+    },
+    {
+      "text": "rate",
+      "start": 62.28,
+      "end": 62.62,
+      "probability": 0.9696481823921204
+    },
+    {
+      "text": "and",
+      "start": 62.62,
+      "end": 63.3,
+      "probability": 0.9731513261795044
+    },
+    {
+      "text": "the",
+      "start": 63.3,
+      "end": 63.44,
+      "probability": 0.8587121367454529
+    },
+    {
+      "text": "US",
+      "start": 63.44,
+      "end": 63.68,
+      "probability": 0.7826129794120789
+    },
+    {
+      "text": "Treasury",
+      "start": 63.68,
+      "end": 63.9,
+      "probability": 0.8902064561843872
+    },
+    {
+      "text": "yield",
+      "start": 63.9,
+      "end": 64.44,
+      "probability": 0.9444811940193176
+    },
+    {
+      "text": "are",
+      "start": 64.44,
+      "end": 65.12,
+      "probability": 0.9493802189826965
+    },
+    {
+      "text": "not",
+      "start": 65.12,
+      "end": 65.52,
+      "probability": 0.9839150905609131
+    },
+    {
+      "text": "the",
+      "start": 65.52,
+      "end": 65.72,
+      "probability": 0.995429277420044
+    },
+    {
+      "text": "same",
+      "start": 65.72,
+      "end": 65.98,
+      "probability": 0.9994465708732605
+    },
+    {
+      "text": "thing.",
+      "start": 65.98,
+      "end": 66.18,
+      "probability": 0.709140419960022
+    },
+    {
+      "text": "The",
+      "start": 67.04,
+      "end": 67.3,
+      "probability": 0.9888575077056885
+    },
+    {
+      "text": "Fed",
+      "start": 67.3,
+      "end": 67.5,
+      "probability": 0.9720468521118164
+    },
+    {
+      "text": "controls",
+      "start": 67.5,
+      "end": 67.96,
+      "probability": 0.9912165403366089
+    },
+    {
+      "text": "a",
+      "start": 67.96,
+      "end": 68.54,
+      "probability": 0.9842379689216614
+    },
+    {
+      "text": "very",
+      "start": 68.54,
+      "end": 68.76,
+      "probability": 0.9744507670402527
+    },
+    {
+      "text": "short",
+      "start": 68.76,
+      "end": 69.22,
+      "probability": 0.9985660910606384
+    },
+    {
+      "text": "-term",
+      "start": 69.22,
+      "end": 69.46,
+      "probability": 0.8904483318328857
+    },
+    {
+      "text": "interest",
+      "start": 69.46,
+      "end": 69.86,
+      "probability": 0.9957903027534485
+    },
+    {
+      "text": "rate.",
+      "start": 69.86,
+      "end": 70.22,
+      "probability": 0.994759738445282
+    },
+    {
+      "text": "Right",
+      "start": 70.68,
+      "end": 70.88,
+      "probability": 0.9211152791976929
+    },
+    {
+      "text": "now,",
+      "start": 70.88,
+      "end": 71.12,
+      "probability": 0.9629482626914978
+    },
+    {
+      "text": "after",
+      "start": 71.36,
+      "end": 71.64,
+      "probability": 0.9951422214508057
+    },
+    {
+      "text": "its",
+      "start": 71.64,
+      "end": 71.84,
+      "probability": 0.9334313869476318
+    },
+    {
+      "text": "September",
+      "start": 71.84,
+      "end": 72.1,
+      "probability": 0.9852080345153809
+    },
+    {
+      "text": "hike,",
+      "start": 72.1,
+      "end": 72.46,
+      "probability": 0.9844858646392822
+    },
+    {
+      "text": "the",
+      "start": 72.96,
+      "end": 73.08,
+      "probability": 0.9895250797271729
+    },
+    {
+      "text": "target",
+      "start": 73.08,
+      "end": 73.32,
+      "probability": 0.9873706102371216
+    },
+    {
+      "text": "is",
+      "start": 73.32,
+      "end": 73.58,
+      "probability": 0.9939583539962769
+    },
+    {
+      "text": "3",
+      "start": 73.58,
+      "end": 73.84,
+      "probability": 0.98723304271698
+    },
+    {
+      "text": ".75",
+      "start": 73.84,
+      "end": 74.52,
+      "probability": 0.992990642786026
+    },
+    {
+      "text": "%",
+      "start": 74.52,
+      "end": 74.82,
+      "probability": 0.1529799997806549
+    },
+    {
+      "text": "to",
+      "start": 74.82,
+      "end": 74.96,
+      "probability": 0.7384362816810608
+    },
+    {
+      "text": "4%.",
+      "start": 74.96,
+      "end": 75.82,
+      "probability": 0.9349367022514343
+    },
+    {
+      "text": "But",
+      "start": 76.38,
+      "end": 76.88,
+      "probability": 0.97690749168396
+    },
+    {
+      "text": "the",
+      "start": 76.88,
+      "end": 77.0,
+      "probability": 0.9217891693115234
+    },
+    {
+      "text": "10",
+      "start": 77.0,
+      "end": 77.32,
+      "probability": 0.8489587306976318
+    },
+    {
+      "text": "-year",
+      "start": 77.32,
+      "end": 77.5,
+      "probability": 0.9068437814712524
+    },
+    {
+      "text": "Treasury",
+      "start": 77.5,
+      "end": 77.82,
+      "probability": 0.9785218834877014
+    },
+    {
+      "text": "yield",
+      "start": 77.82,
+      "end": 78.24,
+      "probability": 0.9712153077125549
+    },
+    {
+      "text": "is",
+      "start": 78.24,
+      "end": 78.72,
+      "probability": 0.9930447936058044
+    },
+    {
+      "text": "determined",
+      "start": 78.72,
+      "end": 79.1,
+      "probability": 0.9965965151786804
+    },
+    {
+      "text": "by",
+      "start": 79.1,
+      "end": 79.34,
+      "probability": 0.9983645081520081
+    },
+    {
+      "text": "the",
+      "start": 79.34,
+      "end": 79.48,
+      "probability": 0.9922106266021729
+    },
+    {
+      "text": "bond",
+      "start": 79.48,
+      "end": 79.74,
+      "probability": 0.9567787051200867
+    },
+    {
+      "text": "market.",
+      "start": 79.74,
+      "end": 80.14,
+      "probability": 0.9951087832450867
+    },
+    {
+      "text": "If",
+      "start": 80.14,
+      "end": 81.4,
+      "probability": 0.6204864978790283
+    },
+    {
+      "text": "I",
+      "start": 81.4,
+      "end": 81.52,
+      "probability": 0.9833306670188904
+    },
+    {
+      "text": "lend",
+      "start": 81.52,
+      "end": 81.72,
+      "probability": 0.9810302257537842
+    },
+    {
+      "text": "money",
+      "start": 81.72,
+      "end": 82.0,
+      "probability": 0.9924461245536804
+    },
+    {
+      "text": "to",
+      "start": 82.0,
+      "end": 82.28,
+      "probability": 0.9942330718040466
+    },
+    {
+      "text": "the",
+      "start": 82.28,
+      "end": 82.4,
+      "probability": 0.9681456089019775
+    },
+    {
+      "text": "US",
+      "start": 82.4,
+      "end": 82.66,
+      "probability": 0.8146070241928101
+    },
+    {
+      "text": "government",
+      "start": 82.66,
+      "end": 83.02,
+      "probability": 0.9460445046424866
+    },
+    {
+      "text": "for",
+      "start": 83.02,
+      "end": 83.36,
+      "probability": 0.9834408760070801
+    },
+    {
+      "text": "10",
+      "start": 83.36,
+      "end": 83.58,
+      "probability": 0.8052565455436707
+    },
+    {
+      "text": "years,",
+      "start": 83.58,
+      "end": 83.88,
+      "probability": 0.9921020865440369
+    },
+    {
+      "text": "what",
+      "start": 84.42,
+      "end": 84.74,
+      "probability": 0.9789668321609497
+    },
+    {
+      "text": "return",
+      "start": 84.74,
+      "end": 85.26,
+      "probability": 0.9065172672271729
+    },
+    {
+      "text": "do",
+      "start": 85.26,
+      "end": 85.76,
+      "probability": 0.9673388600349426
+    },
+    {
+      "text": "I",
+      "start": 85.76,
+      "end": 85.9,
+      "probability": 0.9976638555526733
+    },
+    {
+      "text": "demand?",
+      "start": 85.9,
+      "end": 86.36,
+      "probability": 0.9923588633537292
+    },
+    {
+      "text": "That",
+      "start": 87.34,
+      "end": 87.66,
+      "probability": 0.9563563466072083
+    },
+    {
+      "text": "depends",
+      "start": 87.66,
+      "end": 87.96,
+      "probability": 0.9985236525535583
+    },
+    {
+      "text": "upon",
+      "start": 87.96,
+      "end": 88.32,
+      "probability": 0.9337655305862427
+    },
+    {
+      "text": "what",
+      "start": 88.32,
+      "end": 88.96,
+      "probability": 0.9599007368087769
+    },
+    {
+      "text": "I",
+      "start": 88.96,
+      "end": 89.06,
+      "probability": 0.9834950566291809
+    },
+    {
+      "text": "think",
+      "start": 89.06,
+      "end": 89.32,
+      "probability": 0.9983968138694763
+    },
+    {
+      "text": "inflation",
+      "start": 89.32,
+      "end": 89.82,
+      "probability": 0.9836551547050476
+    },
+    {
+      "text": "will",
+      "start": 89.82,
+      "end": 90.14,
+      "probability": 0.9838062524795532
+    },
+    {
+      "text": "be,",
+      "start": 90.14,
+      "end": 90.36,
+      "probability": 0.9979002475738525
+    },
+    {
+      "text": "what",
+      "start": 90.7,
+      "end": 90.8,
+      "probability": 0.9788700342178345
+    },
+    {
+      "text": "I",
+      "start": 90.8,
+      "end": 90.92,
+      "probability": 0.9915518760681152
+    },
+    {
+      "text": "think",
+      "start": 90.92,
+      "end": 91.14,
+      "probability": 0.9984334111213684
+    },
+    {
+      "text": "the",
+      "start": 91.14,
+      "end": 91.32,
+      "probability": 0.9171450138092041
+    },
+    {
+      "text": "future",
+      "start": 91.32,
+      "end": 91.58,
+      "probability": 0.9850506782531738
+    },
+    {
+      "text": "Fed",
+      "start": 91.58,
+      "end": 91.84,
+      "probability": 0.31923025846481323
+    },
+    {
+      "text": "rates",
+      "start": 91.84,
+      "end": 92.2,
+      "probability": 0.960167407989502
+    },
+    {
+      "text": "will",
+      "start": 92.2,
+      "end": 92.38,
+      "probability": 0.9945843815803528
+    },
+    {
+      "text": "be,",
+      "start": 92.38,
+      "end": 92.6,
+      "probability": 0.9991451501846313
+    },
+    {
+      "text": "how",
+      "start": 93.06,
+      "end": 93.26,
+      "probability": 0.9947147965431213
+    },
+    {
+      "text": "strong",
+      "start": 93.26,
+      "end": 93.6,
+      "probability": 0.9982876181602478
+    },
+    {
+      "text": "the",
+      "start": 93.6,
+      "end": 93.76,
+      "probability": 0.9949195981025696
+    },
+    {
+      "text": "economy",
+      "start": 93.76,
+      "end": 94.1,
+      "probability": 0.9985243678092957
+    },
+    {
+      "text": "will",
+      "start": 94.1,
+      "end": 94.38,
+      "probability": 0.9981715679168701
+    },
+    {
+      "text": "be",
+      "start": 94.38,
+      "end": 94.58,
+      "probability": 0.9995293617248535
+    },
+    {
+      "text": "and",
+      "start": 94.58,
+      "end": 95.24,
+      "probability": 0.5927517414093018
+    },
+    {
+      "text": "how",
+      "start": 95.24,
+      "end": 95.44,
+      "probability": 0.9906725287437439
+    },
+    {
+      "text": "much",
+      "start": 95.44,
+      "end": 95.66,
+      "probability": 0.9986687898635864
+    },
+    {
+      "text": "additional",
+      "start": 95.66,
+      "end": 96.06,
+      "probability": 0.9950998425483704
+    },
+    {
+      "text": "compensation",
+      "start": 96.06,
+      "end": 96.58,
+      "probability": 0.9982532858848572
+    },
+    {
+      "text": "I",
+      "start": 96.58,
+      "end": 97.24,
+      "probability": 0.9918761253356934
+    },
+    {
+      "text": "want",
+      "start": 97.24,
+      "end": 97.5,
+      "probability": 0.9920291304588318
+    },
+    {
+      "text": "for",
+      "start": 97.5,
+      "end": 98.04,
+      "probability": 0.9874372482299805
+    },
+    {
+      "text": "locking",
+      "start": 98.04,
+      "end": 98.44,
+      "probability": 0.9949033260345459
+    },
+    {
+      "text": "my",
+      "start": 98.44,
+      "end": 98.7,
+      "probability": 0.9890228509902954
+    },
+    {
+      "text": "money",
+      "start": 98.7,
+      "end": 98.94,
+      "probability": 0.999259889125824
+    },
+    {
+      "text": "away",
+      "start": 98.94,
+      "end": 99.24,
+      "probability": 0.9910210967063904
+    },
+    {
+      "text": "for",
+      "start": 99.24,
+      "end": 99.68,
+      "probability": 0.9924036264419556
+    },
+    {
+      "text": "10",
+      "start": 99.68,
+      "end": 99.94,
+      "probability": 0.9558740258216858
+    },
+    {
+      "text": "years.",
+      "start": 99.94,
+      "end": 100.26,
+      "probability": 0.9980862140655518
+    },
+    {
+      "text": "And",
+      "start": 100.96,
+      "end": 101.48,
+      "probability": 0.9009101986885071
+    },
+    {
+      "text": "remember",
+      "start": 101.48,
+      "end": 101.82,
+      "probability": 0.9788475632667542
+    },
+    {
+      "text": "one",
+      "start": 101.82,
+      "end": 102.64,
+      "probability": 0.6342569589614868
+    },
+    {
+      "text": "basic",
+      "start": 102.64,
+      "end": 102.96,
+      "probability": 0.9920061230659485
+    },
+    {
+      "text": "rule",
+      "start": 102.96,
+      "end": 103.34,
+      "probability": 0.9961057305335999
+    },
+    {
+      "text": "of",
+      "start": 103.34,
+      "end": 103.7,
+      "probability": 0.9966558218002319
+    },
+    {
+      "text": "bonds.",
+      "start": 103.7,
+      "end": 104.04,
+      "probability": 0.9676100015640259
+    },
+    {
+      "text": "When",
+      "start": 105.0,
+      "end": 105.2,
+      "probability": 0.9906961917877197
+    },
+    {
+      "text": "bond",
+      "start": 105.2,
+      "end": 105.48,
+      "probability": 0.865229606628418
+    },
+    {
+      "text": "yields",
+      "start": 105.48,
+      "end": 105.8,
+      "probability": 0.985546350479126
+    },
+    {
+      "text": "go",
+      "start": 105.8,
+      "end": 106.08,
+      "probability": 0.992318868637085
+    },
+    {
+      "text": "up,",
+      "start": 106.08,
+      "end": 106.42,
+      "probability": 0.9991251826286316
+    },
+    {
+      "text": "existing",
+      "start": 106.92,
+      "end": 107.38,
+      "probability": 0.9955675005912781
+    },
+    {
+      "text": "bond",
+      "start": 107.38,
+      "end": 107.74,
+      "probability": 0.9850500226020813
+    },
+    {
+      "text": "prices",
+      "start": 107.74,
+      "end": 108.2,
+      "probability": 0.9956293106079102
+    },
+    {
+      "text": "go",
+      "start": 108.2,
+      "end": 108.7,
+      "probability": 0.9940477609634399
+    },
+    {
+      "text": "down.",
+      "start": 108.7,
+      "end": 109.02,
+      "probability": 0.998583197593689
+    },
+    {
+      "text": "So",
+      "start": 109.02,
+      "end": 110.22,
+      "probability": 0.6702114939689636
+    },
+    {
+      "text": "when",
+      "start": 110.22,
+      "end": 110.4,
+      "probability": 0.7715016603469849
+    },
+    {
+      "text": "you",
+      "start": 110.4,
+      "end": 110.52,
+      "probability": 0.9964572787284851
+    },
+    {
+      "text": "hear",
+      "start": 110.52,
+      "end": 110.74,
+      "probability": 0.9860851764678955
+    },
+    {
+      "text": "that",
+      "start": 110.74,
+      "end": 110.96,
+      "probability": 0.9742906093597412
+    },
+    {
+      "text": "Treasury",
+      "start": 110.96,
+      "end": 111.24,
+      "probability": 0.017719261348247528
+    },
+    {
+      "text": "yields",
+      "start": 111.24,
+      "end": 111.74,
+      "probability": 0.9365240335464478
+    },
+    {
+      "text": "have",
+      "start": 111.74,
+      "end": 111.94,
+      "probability": 0.9926224946975708
+    },
+    {
+      "text": "shot",
+      "start": 111.94,
+      "end": 112.24,
+      "probability": 0.9348558187484741
+    },
+    {
+      "text": "up,",
+      "start": 112.24,
+      "end": 112.58,
+      "probability": 0.9944226145744324
+    },
+    {
+      "text": "what",
+      "start": 113.16,
+      "end": 113.26,
+      "probability": 0.9875139594078064
+    },
+    {
+      "text": "actually",
+      "start": 113.26,
+      "end": 113.84,
+      "probability": 0.8548383116722107
+    },
+    {
+      "text": "happening",
+      "start": 113.84,
+      "end": 114.24,
+      "probability": 0.9722031354904175
+    },
+    {
+      "text": "is",
+      "start": 114.24,
+      "end": 114.66,
+      "probability": 0.9948666095733643
+    },
+    {
+      "text": "that",
+      "start": 114.66,
+      "end": 115.3,
+      "probability": 0.9472570419311523
+    },
+    {
+      "text": "investors",
+      "start": 115.3,
+      "end": 115.8,
+      "probability": 0.9904899597167969
+    },
+    {
+      "text": "have",
+      "start": 115.8,
+      "end": 116.38,
+      "probability": 0.9899101853370667
+    },
+    {
+      "text": "been",
+      "start": 116.38,
+      "end": 116.56,
+      "probability": 0.9979239702224731
+    },
+    {
+      "text": "selling",
+      "start": 116.56,
+      "end": 116.94,
+      "probability": 0.9965925812721252
+    },
+    {
+      "text": "bonds",
+      "start": 116.94,
+      "end": 117.38,
+      "probability": 0.9915931224822998
+    },
+    {
+      "text": "or",
+      "start": 117.38,
+      "end": 117.94,
+      "probability": 0.9136689305305481
+    },
+    {
+      "text": "demanding",
+      "start": 117.94,
+      "end": 118.4,
+      "probability": 0.9942803382873535
+    },
+    {
+      "text": "a",
+      "start": 118.4,
+      "end": 118.88,
+      "probability": 0.9901043772697449
+    },
+    {
+      "text": "higher",
+      "start": 118.88,
+      "end": 119.24,
+      "probability": 0.9630063772201538
+    },
+    {
+      "text": "return",
+      "start": 119.24,
+      "end": 119.68,
+      "probability": 0.9953939914703369
+    },
+    {
+      "text": "before",
+      "start": 119.68,
+      "end": 120.2,
+      "probability": 0.9861331582069397
+    },
+    {
+      "text": "they",
+      "start": 120.2,
+      "end": 120.42,
+      "probability": 0.9945176243782043
+    },
+    {
+      "text": "are",
+      "start": 120.42,
+      "end": 120.52,
+      "probability": 0.9612845182418823
+    },
+    {
+      "text": "willing",
+      "start": 120.52,
+      "end": 120.72,
+      "probability": 0.9968758821487427
+    },
+    {
+      "text": "to",
+      "start": 120.72,
+      "end": 120.92,
+      "probability": 0.9992942810058594
+    },
+    {
+      "text": "buy",
+      "start": 120.92,
+      "end": 121.1,
+      "probability": 0.9981269240379333
+    },
+    {
+      "text": "them.",
+      "start": 121.1,
+      "end": 121.34,
+      "probability": 0.9863511919975281
+    },
+    {
+      "text": "And",
+      "start": 121.9,
+      "end": 122.22,
+      "probability": 0.9351047873497009
+    },
+    {
+      "text": "this",
+      "start": 122.22,
+      "end": 122.42,
+      "probability": 0.9850178360939026
+    },
+    {
+      "text": "has",
+      "start": 122.42,
+      "end": 122.58,
+      "probability": 0.9965576529502869
+    },
+    {
+      "text": "been",
+      "start": 122.58,
+      "end": 122.86,
+      "probability": 0.9977636337280273
+    },
+    {
+      "text": "a",
+      "start": 122.86,
+      "end": 123.18,
+      "probability": 0.9607771635055542
+    },
+    {
+      "text": "very",
+      "start": 123.18,
+      "end": 123.52,
+      "probability": 0.9959940910339355
+    },
+    {
+      "text": "large",
+      "start": 123.52,
+      "end": 123.86,
+      "probability": 0.9912712574005127
+    },
+    {
+      "text": "one.",
+      "start": 123.86,
+      "end": 123.98,
+      "probability": 0.15991425514221191
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+ take the audio  at "C:\Users\amath\handa\handaintternvideo_audio.mp3" and clean the audio and then using hyperframes create a video. Use motion graphics
+  and animate images where it makes sense. this video needs to be a explainatory video targeted towards finance noobs from india and
+    used to pouplarise the content creator as a subject matter expert. Use a upbeat bg music score This video is from ravi handa from
+  https://www.handauncle.com/ use the colors and brading from https://www.handauncle.com/ For bg music  & and findign relevant stock visuals use the
+    pictory-mcp mcp server & for geenrating images / clips use the pictory-media mcp server. follow the visual guideance
+    from : "C:\Users\amath\pictorycode3\cl3vox\Vox-Style Journalism Video — Master Instruction Prompt.md"
+    C:\Users\amath\pictorycode3\cl3vox\image-prompts.md C:\Users\amath\pictorycode3\cl3vox\video-prompts.md use the style guide at
+  "C:\Users\amath\handa\output\style-guide". DO not add any unnecessary subtext. Do not worry about data quality or warn about something petty. u can assume the audio as the source of truth for numbers. do nto worry about licensing, this is a poc video only. 

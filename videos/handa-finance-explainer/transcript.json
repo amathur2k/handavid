@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "w0",
+    "text": "Something",
+    "start": 0.69,
+    "end": 1.29
+  },
+  {
+    "id": "w1",
+    "text": "fairly",
+    "start": 1.29,
+    "end": 1.79
+  },
+  {
+    "id": "w2",
+    "text": "important",
+    "start": 1.79,
+    "end": 2.39
+  },
+  {
+    "id": "w3",
+    "text": "is",
+    "start": 2.39,
+    "end": 2.91
+  },
+  {
+    "id": "w4",
+    "text": "happening",
+    "start": 2.91,
+    "end": 3.23
+  },
+  {
+    "id": "w5",
+    "text": "in",
+    "start": 3.23,
+    "end": 3.57
+  },
+  {
+    "id": "w6",
+    "text": "the",
+    "start": 3.57,
+    "end": 3.67
+  },
+  {
+    "id": "w7",
+    "text": "US",
+    "start": 3.67,
+    "end": 3.93
+  },
+  {
+    "id": "w8",
+    "text": "bond",
+    "start": 3.93,
+    "end": 4.21
+  },
+  {
+    "id": "w9",
+    "text": "market.",
+    "start": 4.21,
+    "end": 4.63
+  },
+  {
+    "id": "w10",
+    "text": "The",
+    "start": 5.15,
+    "end": 5.71
+  },
+  {
+    "id": "w11",
+    "text": "yield",
+    "start": 5.71,
+    "end": 6.03
+  },
+  {
+    "id": "w12",
+    "text": "on",
+    "start": 6.03,
+    "end": 6.55
+  },
+  {
+    "id": "w13",
+    "text": "the",
+    "start": 6.55,
+    "end": 6.65
+  },
+  {
+    "id": "w14",
+    "text": "10",
+    "start": 6.65,
+    "end": 6.93
+  },
+  {
+    "id": "w15",
+    "text": "-year",
+    "start": 6.93,
+    "end": 7.09
+  },
+  {
+    "id": "w16",
+    "text": "US",
+    "start": 7.09,
+    "end": 7.39
+  },
+  {
+    "id": "w17",
+    "text": "government",
+    "start": 7.39,
+    "end": 7.67
+  },
+  {
+    "id": "w18",
+    "text": "bond",
+    "start": 7.67,
+    "end": 8.01
+  },
+  {
+    "id": "w19",
+    "text": "has",
+    "start": 8.01,
+    "end": 8.45
+  },
+  {
+    "id": "w20",
+    "text": "crossed",
+    "start": 8.45,
+    "end": 8.81
+  },
+  {
+    "id": "w21",
+    "text": "5%.",
+    "start": 8.81,
+    "end": 9.79
+  },
+  {
+    "id": "w22",
+    "text": "In",
+    "start": 9.79,
+    "end": 10.69
+  },
+  {
+    "id": "w23",
+    "text": "fact,",
+    "start": 10.69,
+    "end": 10.95
+  },
+  {
+    "id": "w24",
+    "text": "on",
+    "start": 11.35,
+    "end": 11.45
+  },
+  {
+    "id": "w25",
+    "text": "29th",
+    "start": 11.45,
+    "end": 11.97
+  },
+  {
+    "id": "w26",
+    "text": "of",
+    "start": 11.97,
+    "end": 12.05
+  },
+  {
+    "id": "w27",
+    "text": "September,",
+    "start": 12.05,
+    "end": 12.45
+  },
+  {
+    "id": "w28",
+    "text": "it",
+    "start": 12.89,
+    "end": 12.95
+  },
+  {
+    "id": "w29",
+    "text": "touched",
+    "start": 12.95,
+    "end": 13.25
+  },
+  {
+    "id": "w30",
+    "text": "roughly",
+    "start": 13.25,
+    "end": 13.69
+  },
+  {
+    "id": "w31",
+    "text": "5",
+    "start": 13.69,
+    "end": 14.07
+  },
+  {
+    "id": "w32",
+    "text": ".3%.",
+    "start": 14.07,
+    "end": 15.13
+  },
+  {
+    "id": "w33",
+    "text": "It",
+    "start": 15.13,
+    "end": 15.65
+  },
+  {
+    "id": "w34",
+    "text": "is",
+    "start": 15.65,
+    "end": 15.75
+  },
+  {
+    "id": "w35",
+    "text": "the",
+    "start": 15.75,
+    "end": 15.89
+  },
+  {
+    "id": "w36",
+    "text": "highest",
+    "start": 15.89,
+    "end": 16.15
+  },
+  {
+    "id": "w37",
+    "text": "level",
+    "start": 16.15,
+    "end": 16.57
+  },
+  {
+    "id": "w38",
+    "text": "since",
+    "start": 16.57,
+    "end": 17.07
+  },
+  {
+    "id": "w39",
+    "text": "2007.",
+    "start": 17.07,
+    "end": 18.35
+  },
+  {
+    "id": "w40",
+    "text": "Now,",
+    "start": 19.39,
+    "end": 19.69
+  },
+  {
+    "id": "w41",
+    "text": "a",
+    "start": 20.19,
+    "end": 20.33
+  },
+  {
+    "id": "w42",
+    "text": "US",
+    "start": 20.33,
+    "end": 20.67
+  },
+  {
+    "id": "w43",
+    "text": "government",
+    "start": 20.67,
+    "end": 20.97
+  },
+  {
+    "id": "w44",
+    "text": "bond",
+    "start": 20.97,
+    "end": 21.35
+  },
+  {
+    "id": "w45",
+    "text": "yielding",
+    "start": 21.35,
+    "end": 21.77
+  },
+  {
+    "id": "w46",
+    "text": "5",
+    "start": 21.77,
+    "end": 22.05
+  },
+  {
+    "id": "w47",
+    "text": "%",
+    "start": 22.05,
+    "end": 22.41
+  },
+  {
+    "id": "w48",
+    "text": "may",
+    "start": 22.41,
+    "end": 23.03
+  },
+  {
+    "id": "w49",
+    "text": "sound",
+    "start": 23.03,
+    "end": 23.27
+  },
+  {
+    "id": "w50",
+    "text": "completely",
+    "start": 23.27,
+    "end": 23.67
+  },
+  {
+    "id": "w51",
+    "text": "irrelevant",
+    "start": 23.67,
+    "end": 24.19
+  },
+  {
+    "id": "w52",
+    "text": "to",
+    "start": 24.19,
+    "end": 24.63
+  },
+  {
+    "id": "w53",
+    "text": "someone",
+    "start": 24.63,
+    "end": 24.89
+  },
+  {
+    "id": "w54",
+    "text": "sitting",
+    "start": 24.89,
+    "end": 25.11
+  },
+  {
+    "id": "w55",
+    "text": "in",
+    "start": 25.11,
+    "end": 25.35
+  },
+  {
+    "id": "w56",
+    "text": "India,",
+    "start": 25.35,
+    "end": 25.67
+  },
+  {
+    "id": "w57",
+    "text": "investing",
+    "start": 25.93,
+    "end": 26.27
+  },
+  {
+    "id": "w58",
+    "text": "in",
+    "start": 26.27,
+    "end": 26.49
+  },
+  {
+    "id": "w59",
+    "text": "mutual",
+    "start": 26.49,
+    "end": 26.75
+  },
+  {
+    "id": "w60",
+    "text": "funds,",
+    "start": 26.75,
+    "end": 27.21
+  },
+  {
+    "id": "w61",
+    "text": "gold",
+    "start": 27.39,
+    "end": 27.63
+  },
+  {
+    "id": "w62",
+    "text": "or",
+    "start": 27.63,
+    "end": 27.95
+  },
+  {
+    "id": "w63",
+    "text": "real",
+    "start": 27.95,
+    "end": 28.11
+  },
+  {
+    "id": "w64",
+    "text": "estate.",
+    "start": 28.11,
+    "end": 28.43
+  },
+  {
+    "id": "w65",
+    "text": "But",
+    "start": 28.43,
+    "end": 29.47
+  },
+  {
+    "id": "w66",
+    "text": "it",
+    "start": 29.47,
+    "end": 29.65
+  },
+  {
+    "id": "w67",
+    "text": "isn't.",
+    "start": 29.65,
+    "end": 30.09
+  },
+  {
+    "id": "w68",
+    "text": "Think",
+    "start": 30.79,
+    "end": 31.29
+  },
+  {
+    "id": "w69",
+    "text": "of",
+    "start": 31.29,
+    "end": 31.47
+  },
+  {
+    "id": "w70",
+    "text": "the",
+    "start": 31.47,
+    "end": 31.59
+  },
+  {
+    "id": "w71",
+    "text": "US",
+    "start": 31.59,
+    "end": 31.81
+  },
+  {
+    "id": "w72",
+    "text": "Treasury",
+    "start": 31.81,
+    "end": 32.15
+  },
+  {
+    "id": "w73",
+    "text": "yield",
+    "start": 32.15,
+    "end": 32.65
+  },
+  {
+    "id": "w74",
+    "text": "as",
+    "start": 32.65,
+    "end": 33.25
+  },
+  {
+    "id": "w75",
+    "text": "something",
+    "start": 33.25,
+    "end": 33.59
+  },
+  {
+    "id": "w76",
+    "text": "close",
+    "start": 33.59,
+    "end": 34.11
+  },
+  {
+    "id": "w77",
+    "text": "to",
+    "start": 34.11,
+    "end": 34.35
+  },
+  {
+    "id": "w78",
+    "text": "the",
+    "start": 34.35,
+    "end": 34.47
+  },
+  {
+    "id": "w79",
+    "text": "gravity",
+    "start": 34.47,
+    "end": 34.99
+  },
+  {
+    "id": "w80",
+    "text": "of",
+    "start": 34.99,
+    "end": 35.39
+  },
+  {
+    "id": "w81",
+    "text": "the",
+    "start": 35.39,
+    "end": 35.51
+  },
+  {
+    "id": "w82",
+    "text": "global",
+    "start": 35.51,
+    "end": 35.73
+  },
+  {
+    "id": "w83",
+    "text": "financial",
+    "start": 35.73,
+    "end": 36.21
+  },
+  {
+    "id": "w84",
+    "text": "markets.",
+    "start": 36.21,
+    "end": 36.63
+  },
+  {
+    "id": "w85",
+    "text": "If",
+    "start": 37.49,
+    "end": 37.93
+  },
+  {
+    "id": "w86",
+    "text": "the",
+    "start": 37.93,
+    "end": 38.13
+  },
+  {
+    "id": "w87",
+    "text": "US",
+    "start": 38.13,
+    "end": 38.33
+  },
+  {
+    "id": "w88",
+    "text": "government",
+    "start": 38.33,
+    "end": 38.71
+  },
+  {
+    "id": "w89",
+    "text": "is",
+    "start": 38.71,
+    "end": 39.21
+  },
+  {
+    "id": "w90",
+    "text": "willing",
+    "start": 39.21,
+    "end": 39.41
+  },
+  {
+    "id": "w91",
+    "text": "to",
+    "start": 39.41,
+    "end": 39.61
+  },
+  {
+    "id": "w92",
+    "text": "give",
+    "start": 39.61,
+    "end": 39.81
+  },
+  {
+    "id": "w93",
+    "text": "an",
+    "start": 39.81,
+    "end": 40.11
+  },
+  {
+    "id": "w94",
+    "text": "investor",
+    "start": 40.11,
+    "end": 40.59
+  },
+  {
+    "id": "w95",
+    "text": "more",
+    "start": 40.59,
+    "end": 41.43
+  },
+  {
+    "id": "w96",
+    "text": "than",
+    "start": 41.43,
+    "end": 41.69
+  },
+  {
+    "id": "w97",
+    "text": "5",
+    "start": 41.69,
+    "end": 42.05
+  },
+  {
+    "id": "w98",
+    "text": "%",
+    "start": 42.05,
+    "end": 42.49
+  },
+  {
+    "id": "w99",
+    "text": "for",
+    "start": 42.49,
+    "end": 43.15
+  },
+  {
+    "id": "w100",
+    "text": "10",
+    "start": 43.15,
+    "end": 43.53
+  },
+  {
+    "id": "w101",
+    "text": "years,",
+    "start": 43.53,
+    "end": 43.97
+  },
+  {
+    "id": "w102",
+    "text": "every",
+    "start": 44.63,
+    "end": 45.01
+  },
+  {
+    "id": "w103",
+    "text": "other",
+    "start": 45.01,
+    "end": 45.27
+  },
+  {
+    "id": "w104",
+    "text": "investment",
+    "start": 45.27,
+    "end": 45.71
+  },
+  {
+    "id": "w105",
+    "text": "has",
+    "start": 45.71,
+    "end": 46.19
+  },
+  {
+    "id": "w106",
+    "text": "to",
+    "start": 46.19,
+    "end": 46.59
+  },
+  {
+    "id": "w107",
+    "text": "answer",
+    "start": 46.59,
+    "end": 47.05
+  },
+  {
+    "id": "w108",
+    "text": "a",
+    "start": 47.05,
+    "end": 47.49
+  },
+  {
+    "id": "w109",
+    "text": "single",
+    "start": 47.49,
+    "end": 47.85
+  },
+  {
+    "id": "w110",
+    "text": "question.",
+    "start": 47.85,
+    "end": 48.51
+  },
+  {
+    "id": "w111",
+    "text": "Why",
+    "start": 49.45,
+    "end": 50.03
+  },
+  {
+    "id": "w112",
+    "text": "should",
+    "start": 50.03,
+    "end": 50.25
+  },
+  {
+    "id": "w113",
+    "text": "I",
+    "start": 50.25,
+    "end": 50.43
+  },
+  {
+    "id": "w114",
+    "text": "take",
+    "start": 50.43,
+    "end": 50.73
+  },
+  {
+    "id": "w115",
+    "text": "additional",
+    "start": 50.73,
+    "end": 51.21
+  },
+  {
+    "id": "w116",
+    "text": "risk",
+    "start": 51.21,
+    "end": 51.79
+  },
+  {
+    "id": "w117",
+    "text": "to",
+    "start": 51.79,
+    "end": 52.13
+  },
+  {
+    "id": "w118",
+    "text": "own",
+    "start": 52.13,
+    "end": 52.39
+  },
+  {
+    "id": "w119",
+    "text": "you?",
+    "start": 52.39,
+    "end": 52.59
+  },
+  {
+    "id": "w120",
+    "text": "Before",
+    "start": 54.38,
+    "end": 55.48
+  },
+  {
+    "id": "w121",
+    "text": "we",
+    "start": 55.48,
+    "end": 55.7
+  },
+  {
+    "id": "w122",
+    "text": "get",
+    "start": 55.7,
+    "end": 55.92
+  },
+  {
+    "id": "w123",
+    "text": "into",
+    "start": 55.92,
+    "end": 56.3
+  },
+  {
+    "id": "w124",
+    "text": "why",
+    "start": 56.3,
+    "end": 56.8
+  },
+  {
+    "id": "w125",
+    "text": "this",
+    "start": 56.8,
+    "end": 57.06
+  },
+  {
+    "id": "w126",
+    "text": "is",
+    "start": 57.06,
+    "end": 57.22
+  },
+  {
+    "id": "w127",
+    "text": "happening,",
+    "start": 57.22,
+    "end": 57.52
+  },
+  {
+    "id": "w128",
+    "text": "we",
+    "start": 58.04,
+    "end": 58.2
+  },
+  {
+    "id": "w129",
+    "text": "need",
+    "start": 58.2,
+    "end": 58.34
+  },
+  {
+    "id": "w130",
+    "text": "to",
+    "start": 58.34,
+    "end": 58.44
+  },
+  {
+    "id": "w131",
+    "text": "understand",
+    "start": 58.44,
+    "end": 58.8
+  },
+  {
+    "id": "w132",
+    "text": "two",
+    "start": 58.8,
+    "end": 59.04
+  },
+  {
+    "id": "w133",
+    "text": "basic",
+    "start": 59.04,
+    "end": 59.28
+  },
+  {
+    "id": "w134",
+    "text": "concepts.",
+    "start": 59.28,
+    "end": 59.76
+  },
+  {
+    "id": "w135",
+    "text": "The",
+    "start": 60.6,
+    "end": 61.02
+  },
+  {
+    "id": "w136",
+    "text": "Federal",
+    "start": 61.02,
+    "end": 61.32
+  },
+  {
+    "id": "w137",
+    "text": "Reserve's",
+    "start": 61.32,
+    "end": 61.94
+  },
+  {
+    "id": "w138",
+    "text": "policy",
+    "start": 61.94,
+    "end": 62.28
+  },
+  {
+    "id": "w139",
+    "text": "rate",
+    "start": 62.28,
+    "end": 62.62
+  },
+  {
+    "id": "w140",
+    "text": "and",
+    "start": 62.62,
+    "end": 63.3
+  },
+  {
+    "id": "w141",
+    "text": "the",
+    "start": 63.3,
+    "end": 63.44
+  },
+  {
+    "id": "w142",
+    "text": "US",
+    "start": 63.44,
+    "end": 63.68
+  },
+  {
+    "id": "w143",
+    "text": "Treasury",
+    "start": 63.68,
+    "end": 63.9
+  },
+  {
+    "id": "w144",
+    "text": "yield",
+    "start": 63.9,
+    "end": 64.44
+  },
+  {
+    "id": "w145",
+    "text": "are",
+    "start": 64.44,
+    "end": 65.12
+  },
+  {
+    "id": "w146",
+    "text": "not",
+    "start": 65.12,
+    "end": 65.52
+  },
+  {
+    "id": "w147",
+    "text": "the",
+    "start": 65.52,
+    "end": 65.72
+  },
+  {
+    "id": "w148",
+    "text": "same",
+    "start": 65.72,
+    "end": 65.98
+  },
+  {
+    "id": "w149",
+    "text": "thing.",
+    "start": 65.98,
+    "end": 66.18
+  },
+  {
+    "id": "w150",
+    "text": "The",
+    "start": 67.04,
+    "end": 67.3
+  },
+  {
+    "id": "w151",
+    "text": "Fed",
+    "start": 67.3,
+    "end": 67.5
+  },
+  {
+    "id": "w152",
+    "text": "controls",
+    "start": 67.5,
+    "end": 67.96
+  },
+  {
+    "id": "w153",
+    "text": "a",
+    "start": 67.96,
+    "end": 68.54
+  },
+  {
+    "id": "w154",
+    "text": "very",
+    "start": 68.54,
+    "end": 68.76
+  },
+  {
+    "id": "w155",
+    "text": "short",
+    "start": 68.76,
+    "end": 69.22
+  },
+  {
+    "id": "w156",
+    "text": "-term",
+    "start": 69.22,
+    "end": 69.46
+  },
+  {
+    "id": "w157",
+    "text": "interest",
+    "start": 69.46,
+    "end": 69.86
+  },
+  {
+    "id": "w158",
+    "text": "rate.",
+    "start": 69.86,
+    "end": 70.22
+  },
+  {
+    "id": "w159",
+    "text": "Right",
+    "start": 70.68,
+    "end": 70.88
+  },
+  {
+    "id": "w160",
+    "text": "now,",
+    "start": 70.88,
+    "end": 71.12
+  },
+  {
+    "id": "w161",
+    "text": "after",
+    "start": 71.36,
+    "end": 71.64
+  },
+  {
+    "id": "w162",
+    "text": "its",
+    "start": 71.64,
+    "end": 71.84
+  },
+  {
+    "id": "w163",
+    "text": "September",
+    "start": 71.84,
+    "end": 72.1
+  },
+  {
+    "id": "w164",
+    "text": "hike,",
+    "start": 72.1,
+    "end": 72.46
+  },
+  {
+    "id": "w165",
+    "text": "the",
+    "start": 72.96,
+    "end": 73.08
+  },
+  {
+    "id": "w166",
+    "text": "target",
+    "start": 73.08,
+    "end": 73.32
+  },
+  {
+    "id": "w167",
+    "text": "is",
+    "start": 73.32,
+    "end": 73.58
+  },
+  {
+    "id": "w168",
+    "text": "3",
+    "start": 73.58,
+    "end": 73.84
+  },
+  {
+    "id": "w169",
+    "text": ".75",
+    "start": 73.84,
+    "end": 74.52
+  },
+  {
+    "id": "w170",
+    "text": "%",
+    "start": 74.52,
+    "end": 74.82
+  },
+  {
+    "id": "w171",
+    "text": "to",
+    "start": 74.82,
+    "end": 74.96
+  },
+  {
+    "id": "w172",
+    "text": "4%.",
+    "start": 74.96,
+    "end": 75.82
+  },
+  {
+    "id": "w173",
+    "text": "But",
+    "start": 76.38,
+    "end": 76.88
+  },
+  {
+    "id": "w174",
+    "text": "the",
+    "start": 76.88,
+    "end": 77
+  },
+  {
+    "id": "w175",
+    "text": "10",
+    "start": 77,
+    "end": 77.32
+  },
+  {
+    "id": "w176",
+    "text": "-year",
+    "start": 77.32,
+    "end": 77.5
+  },
+  {
+    "id": "w177",
+    "text": "Treasury",
+    "start": 77.5,
+    "end": 77.82
+  },
+  {
+    "id": "w178",
+    "text": "yield",
+    "start": 77.82,
+    "end": 78.24
+  },
+  {
+    "id": "w179",
+    "text": "is",
+    "start": 78.24,
+    "end": 78.72
+  },
+  {
+    "id": "w180",
+    "text": "determined",
+    "start": 78.72,
+    "end": 79.1
+  },
+  {
+    "id": "w181",
+    "text": "by",
+    "start": 79.1,
+    "end": 79.34
+  },
+  {
+    "id": "w182",
+    "text": "the",
+    "start": 79.34,
+    "end": 79.48
+  },
+  {
+    "id": "w183",
+    "text": "bond",
+    "start": 79.48,
+    "end": 79.74
+  },
+  {
+    "id": "w184",
+    "text": "market.",
+    "start": 79.74,
+    "end": 80.14
+  },
+  {
+    "id": "w185",
+    "text": "If",
+    "start": 80.14,
+    "end": 81.4
+  },
+  {
+    "id": "w186",
+    "text": "I",
+    "start": 81.4,
+    "end": 81.52
+  },
+  {
+    "id": "w187",
+    "text": "lend",
+    "start": 81.52,
+    "end": 81.72
+  },
+  {
+    "id": "w188",
+    "text": "money",
+    "start": 81.72,
+    "end": 82
+  },
+  {
+    "id": "w189",
+    "text": "to",
+    "start": 82,
+    "end": 82.28
+  },
+  {
+    "id": "w190",
+    "text": "the",
+    "start": 82.28,
+    "end": 82.4
+  },
+  {
+    "id": "w191",
+    "text": "US",
+    "start": 82.4,
+    "end": 82.66
+  },
+  {
+    "id": "w192",
+    "text": "government",
+    "start": 82.66,
+    "end": 83.02
+  },
+  {
+    "id": "w193",
+    "text": "for",
+    "start": 83.02,
+    "end": 83.36
+  },
+  {
+    "id": "w194",
+    "text": "10",
+    "start": 83.36,
+    "end": 83.58
+  },
+  {
+    "id": "w195",
+    "text": "years,",
+    "start": 83.58,
+    "end": 83.88
+  },
+  {
+    "id": "w196",
+    "text": "what",
+    "start": 84.42,
+    "end": 84.74
+  },
+  {
+    "id": "w197",
+    "text": "return",
+    "start": 84.74,
+    "end": 85.26
+  },
+  {
+    "id": "w198",
+    "text": "do",
+    "start": 85.26,
+    "end": 85.76
+  },
+  {
+    "id": "w199",
+    "text": "I",
+    "start": 85.76,
+    "end": 85.9
+  },
+  {
+    "id": "w200",
+    "text": "demand?",
+    "start": 85.9,
+    "end": 86.36
+  },
+  {
+    "id": "w201",
+    "text": "That",
+    "start": 87.34,
+    "end": 87.66
+  },
+  {
+    "id": "w202",
+    "text": "depends",
+    "start": 87.66,
+    "end": 87.96
+  },
+  {
+    "id": "w203",
+    "text": "upon",
+    "start": 87.96,
+    "end": 88.32
+  },
+  {
+    "id": "w204",
+    "text": "what",
+    "start": 88.32,
+    "end": 88.96
+  },
+  {
+    "id": "w205",
+    "text": "I",
+    "start": 88.96,
+    "end": 89.06
+  },
+  {
+    "id": "w206",
+    "text": "think",
+    "start": 89.06,
+    "end": 89.32
+  },
+  {
+    "id": "w207",
+    "text": "inflation",
+    "start": 89.32,
+    "end": 89.82
+  },
+  {
+    "id": "w208",
+    "text": "will",
+    "start": 89.82,
+    "end": 90.14
+  },
+  {
+    "id": "w209",
+    "text": "be,",
+    "start": 90.14,
+    "end": 90.36
+  },
+  {
+    "id": "w210",
+    "text": "what",
+    "start": 90.7,
+    "end": 90.8
+  },
+  {
+    "id": "w211",
+    "text": "I",
+    "start": 90.8,
+    "end": 90.92
+  },
+  {
+    "id": "w212",
+    "text": "think",
+    "start": 90.92,
+    "end": 91.14
+  },
+  {
+    "id": "w213",
+    "text": "the",
+    "start": 91.14,
+    "end": 91.32
+  },
+  {
+    "id": "w214",
+    "text": "future",
+    "start": 91.32,
+    "end": 91.58
+  },
+  {
+    "id": "w215",
+    "text": "Fed",
+    "start": 91.58,
+    "end": 91.84
+  },
+  {
+    "id": "w216",
+    "text": "rates",
+    "start": 91.84,
+    "end": 92.2
+  },
+  {
+    "id": "w217",
+    "text": "will",
+    "start": 92.2,
+    "end": 92.38
+  },
+  {
+    "id": "w218",
+    "text": "be,",
+    "start": 92.38,
+    "end": 92.6
+  },
+  {
+    "id": "w219",
+    "text": "how",
+    "start": 93.06,
+    "end": 93.26
+  },
+  {
+    "id": "w220",
+    "text": "strong",
+    "start": 93.26,
+    "end": 93.6
+  },
+  {
+    "id": "w221",
+    "text": "the",
+    "start": 93.6,
+    "end": 93.76
+  },
+  {
+    "id": "w222",
+    "text": "economy",
+    "start": 93.76,
+    "end": 94.1
+  },
+  {
+    "id": "w223",
+    "text": "will",
+    "start": 94.1,
+    "end": 94.38
+  },
+  {
+    "id": "w224",
+    "text": "be",
+    "start": 94.38,
+    "end": 94.58
+  },
+  {
+    "id": "w225",
+    "text": "and",
+    "start": 94.58,
+    "end": 95.24
+  },
+  {
+    "id": "w226",
+    "text": "how",
+    "start": 95.24,
+    "end": 95.44
+  },
+  {
+    "id": "w227",
+    "text": "much",
+    "start": 95.44,
+    "end": 95.66
+  },
+  {
+    "id": "w228",
+    "text": "additional",
+    "start": 95.66,
+    "end": 96.06
+  },
+  {
+    "id": "w229",
+    "text": "compensation",
+    "start": 96.06,
+    "end": 96.58
+  },
+  {
+    "id": "w230",
+    "text": "I",
+    "start": 96.58,
+    "end": 97.24
+  },
+  {
+    "id": "w231",
+    "text": "want",
+    "start": 97.24,
+    "end": 97.5
+  },
+  {
+    "id": "w232",
+    "text": "for",
+    "start": 97.5,
+    "end": 98.04
+  },
+  {
+    "id": "w233",
+    "text": "locking",
+    "start": 98.04,
+    "end": 98.44
+  },
+  {
+    "id": "w234",
+    "text": "my",
+    "start": 98.44,
+    "end": 98.7
+  },
+  {
+    "id": "w235",
+    "text": "money",
+    "start": 98.7,
+    "end": 98.94
+  },
+  {
+    "id": "w236",
+    "text": "away",
+    "start": 98.94,
+    "end": 99.24
+  },
+  {
+    "id": "w237",
+    "text": "for",
+    "start": 99.24,
+    "end": 99.68
+  },
+  {
+    "id": "w238",
+    "text": "10",
+    "start": 99.68,
+    "end": 99.94
+  },
+  {
+    "id": "w239",
+    "text": "years.",
+    "start": 99.94,
+    "end": 100.26
+  },
+  {
+    "id": "w240",
+    "text": "And",
+    "start": 100.96,
+    "end": 101.48
+  },
+  {
+    "id": "w241",
+    "text": "remember",
+    "start": 101.48,
+    "end": 101.82
+  },
+  {
+    "id": "w242",
+    "text": "one",
+    "start": 101.82,
+    "end": 102.64
+  },
+  {
+    "id": "w243",
+    "text": "basic",
+    "start": 102.64,
+    "end": 102.96
+  },
+  {
+    "id": "w244",
+    "text": "rule",
+    "start": 102.96,
+    "end": 103.34
+  },
+  {
+    "id": "w245",
+    "text": "of",
+    "start": 103.34,
+    "end": 103.7
+  },
+  {
+    "id": "w246",
+    "text": "bonds.",
+    "start": 103.7,
+    "end": 104.04
+  },
+  {
+    "id": "w247",
+    "text": "When",
+    "start": 105,
+    "end": 105.2
+  },
+  {
+    "id": "w248",
+    "text": "bond",
+    "start": 105.2,
+    "end": 105.48
+  },
+  {
+    "id": "w249",
+    "text": "yields",
+    "start": 105.48,
+    "end": 105.8
+  },
+  {
+    "id": "w250",
+    "text": "go",
+    "start": 105.8,
+    "end": 106.08
+  },
+  {
+    "id": "w251",
+    "text": "up,",
+    "start": 106.08,
+    "end": 106.42
+  },
+  {
+    "id": "w252",
+    "text": "existing",
+    "start": 106.92,
+    "end": 107.38
+  },
+  {
+    "id": "w253",
+    "text": "bond",
+    "start": 107.38,
+    "end": 107.74
+  },
+  {
+    "id": "w254",
+    "text": "prices",
+    "start": 107.74,
+    "end": 108.2
+  },
+  {
+    "id": "w255",
+    "text": "go",
+    "start": 108.2,
+    "end": 108.7
+  },
+  {
+    "id": "w256",
+    "text": "down.",
+    "start": 108.7,
+    "end": 109.02
+  },
+  {
+    "id": "w257",
+    "text": "So",
+    "start": 109.02,
+    "end": 110.22
+  },
+  {
+    "id": "w258",
+    "text": "when",
+    "start": 110.22,
+    "end": 110.4
+  },
+  {
+    "id": "w259",
+    "text": "you",
+    "start": 110.4,
+    "end": 110.52
+  },
+  {
+    "id": "w260",
+    "text": "hear",
+    "start": 110.52,
+    "end": 110.74
+  },
+  {
+    "id": "w261",
+    "text": "that",
+    "start": 110.74,
+    "end": 110.96
+  },
+  {
+    "id": "w262",
+    "text": "Treasury",
+    "start": 110.96,
+    "end": 111.24
+  },
+  {
+    "id": "w263",
+    "text": "yields",
+    "start": 111.24,
+    "end": 111.74
+  },
+  {
+    "id": "w264",
+    "text": "have",
+    "start": 111.74,
+    "end": 111.94
+  },
+  {
+    "id": "w265",
+    "text": "shot",
+    "start": 111.94,
+    "end": 112.24
+  },
+  {
+    "id": "w266",
+    "text": "up,",
+    "start": 112.24,
+    "end": 112.58
+  },
+  {
+    "id": "w267",
+    "text": "what",
+    "start": 113.16,
+    "end": 113.26
+  },
+  {
+    "id": "w268",
+    "text": "actually",
+    "start": 113.26,
+    "end": 113.84
+  },
+  {
+    "id": "w269",
+    "text": "happening",
+    "start": 113.84,
+    "end": 114.24
+  },
+  {
+    "id": "w270",
+    "text": "is",
+    "start": 114.24,
+    "end": 114.66
+  },
+  {
+    "id": "w271",
+    "text": "that",
+    "start": 114.66,
+    "end": 115.3
+  },
+  {
+    "id": "w272",
+    "text": "investors",
+    "start": 115.3,
+    "end": 115.8
+  },
+  {
+    "id": "w273",
+    "text": "have",
+    "start": 115.8,
+    "end": 116.38
+  },
+  {
+    "id": "w274",
+    "text": "been",
+    "start": 116.38,
+    "end": 116.56
+  },
+  {
+    "id": "w275",
+    "text": "selling",
+    "start": 116.56,
+    "end": 116.94
+  },
+  {
+    "id": "w276",
+    "text": "bonds",
+    "start": 116.94,
+    "end": 117.38
+  },
+  {
+    "id": "w277",
+    "text": "or",
+    "start": 117.38,
+    "end": 117.94
+  },
+  {
+    "id": "w278",
+    "text": "demanding",
+    "start": 117.94,
+    "end": 118.4
+  },
+  {
+    "id": "w279",
+    "text": "a",
+    "start": 118.4,
+    "end": 118.88
+  },
+  {
+    "id": "w280",
+    "text": "higher",
+    "start": 118.88,
+    "end": 119.24
+  },
+  {
+    "id": "w281",
+    "text": "return",
+    "start": 119.24,
+    "end": 119.68
+  },
+  {
+    "id": "w282",
+    "text": "before",
+    "start": 119.68,
+    "end": 120.2
+  },
+  {
+    "id": "w283",
+    "text": "they",
+    "start": 120.2,
+    "end": 120.42
+  },
+  {
+    "id": "w284",
+    "text": "are",
+    "start": 120.42,
+    "end": 120.52
+  },
+  {
+    "id": "w285",
+    "text": "willing",
+    "start": 120.52,
+    "end": 120.72
+  },
+  {
+    "id": "w286",
+    "text": "to",
+    "start": 120.72,
+    "end": 120.92
+  },
+  {
+    "id": "w287",
+    "text": "buy",
+    "start": 120.92,
+    "end": 121.1
+  },
+  {
+    "id": "w288",
+    "text": "them.",
+    "start": 121.1,
+    "end": 121.34
+  },
+  {
+    "id": "w289",
+    "text": "And",
+    "start": 121.9,
+    "end": 122.22
+  },
+  {
+    "id": "w290",
+    "text": "this",
+    "start": 122.22,
+    "end": 122.42
+  },
+  {
+    "id": "w291",
+    "text": "has",
+    "start": 122.42,
+    "end": 122.58
+  },
+  {
+    "id": "w292",
+    "text": "been",
+    "start": 122.58,
+    "end": 122.86
+  },
+  {
+    "id": "w293",
+    "text": "a",
+    "start": 122.86,
+    "end": 123.18
+  },
+  {
+    "id": "w294",
+    "text": "very",
+    "start": 123.18,
+    "end": 123.52
+  },
+  {
+    "id": "w295",
+    "text": "large",
+    "start": 123.52,
+    "end": 123.86
+  },
+  {
+    "id": "w296",
+    "text": "one.",
+    "start": 123.86,
+    "end": 123.98
+  }
+]

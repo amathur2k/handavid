@@ -1,0 +1,44 @@
+{
+  "status": "Proposed design tokens grounded in observed website colours",
+  "research_date": "2026-10-08",
+  "color": {
+    "brand": "#0054AC",
+    "deep": "#002E5F",
+    "bright": "#005FC5",
+    "surface": "#EEF5FD",
+    "paper": "#F7F5F0",
+    "ink": "#0F172A",
+    "muted": "#475569",
+    "success": "#177454",
+    "risk": "#B42318",
+    "podcast_yellow_proposed": "#FFE13A",
+    "podcast_red_proposed": "#EC172B"
+  },
+  "font": {
+    "family": "Inter, Segoe UI, Arial, sans-serif",
+    "hero": {
+      "desktop": 60,
+      "mobile": 36,
+      "weight": 500
+    },
+    "body": {
+      "size": 16,
+      "lineHeight": 1.5
+    },
+    "numeric": "tabular-nums"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48
+  ],
+  "radius": {
+    "card": 16,
+    "control": 10
+  },
+  "touchTargetMin": 44
+}

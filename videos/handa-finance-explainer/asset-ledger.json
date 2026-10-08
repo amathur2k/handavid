@@ -1,0 +1,38 @@
+{
+  "narration": {
+    "source": "user",
+    "path": "assets/narration-clean.wav",
+    "duration": 124.010667
+  },
+  "bgm": {
+    "source": "pictory-search_music",
+    "title": "Left Turn",
+    "url": "https://tracks.melod.ie/track_versions/25232/MEL622_01_1_Left_Turn_%28Full%29_POKR_stream.mp3?1722592742",
+    "path": "assets/music-bed.mp3",
+    "rights": "External-use rights not verified; review use only"
+  },
+  "images": [
+    {
+      "path": "assets/gravity.png",
+      "jobId": "d6035784-9148-4017-bc4b-918edfe80e99",
+      "provider": "pictory-media nanobanana"
+    },
+    {
+      "path": "assets/india-investor.png",
+      "jobId": "8641d1e2-b1b5-4673-a865-30fbaf05895f",
+      "provider": "pictory-media nanobanana"
+    }
+  ],
+  "video": {
+    "path": "assets/gravity-motion.mp4",
+    "jobId": "dca25039-cf85-4c77-860c-8f408454d2ef",
+    "provider": "pictory-media veo3.1",
+    "sourceOffset": 0.25,
+    "duration": 3.75
+  },
+  "stock": {
+    "selection": "stock-selection.json",
+    "used": true,
+    "reason": "Pictory stock previews included for user-authorized internal review only"
+  }
+}
